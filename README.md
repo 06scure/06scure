@@ -24,7 +24,15 @@ Here are some ideas to get you started:
 ### Languages
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a>
+</p>
+
+### Framework
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/> </a> 
+  <a href="https://github.com/pallets/flask" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a> 
+
 </p>
 
 
